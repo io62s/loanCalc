@@ -1,0 +1,11 @@
+{
+  "name": "loancalc",
+  "version": "1.0.0",
+  "description": "loan calculator tut",
+  "main": "calc.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Branko",
+  "license": "ISC"
+}
